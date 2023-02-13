@@ -1,4 +1,4 @@
-#PROGRAMA QUE ORGANIZA PROPRIEDADES CSS EM ORDEM ALFABÉTICA
+# PROGRAMA QUE ORGANIZA PROPRIEDADES CSS EM ORDEM ALFABÉTICA
 ![image](https://github.com/NHCardoso/Projeto_Individual_Modulo5/blob/main/exemplo.png?raw=true)
  ## ⌨️ Como executar?
 
